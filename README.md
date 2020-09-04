@@ -49,7 +49,7 @@ Last Step, run the **FightingICE.bat** in fig.2. Then enjoy it!![img](images/4.p
 
 ## **Reinforcement Learning (RL) Part**
 
-### EmcmAI
+### **EmcmAI**
 
 - EmcmAI is a RL-based bot that uses a policy network to fight against opponents.
 - The policy network is trained by Proximal Policy Optimization (PPO) and by playing against participating bots in the competitions of last few years.
@@ -58,9 +58,9 @@ Last Step, run the **FightingICE.bat** in fig.2. Then enjoy it!![img](images/4.p
 
 #### Content
   There are three folders in this directory: "ai", "aiData" and "src", each of which contains the files:
-  - ai/EmcmAi.jar: AI implementation in Java.
-  - aiData/EmcmAi/b{0_2}_399.csv and /EmcmAi/W{0_2}_399.csv
-  - src: the source code for .jar bot.
+- ai/EmcmAi.jar: AI implementation in Java.
+- aiData/EmcmAi/b{0_2}_399.csv and /EmcmAi/W{0_2}_399.csv
+    - src: the source code for .jar bot.
 
 #### Installation
    Copy "ai/EmcmAi.jar" to “FTG4.x/data/ai” directory, then copy "aiData/EmcmAi/" folder and its contents to "FTG4.x/data/aiData/".
@@ -69,17 +69,22 @@ Last Step, run the **FightingICE.bat** in fig.2. Then enjoy it!![img](images/4.p
    Launch the FightingICE and select EmcmAi and the opponent. Then enjoy the game.
 
 
-### CYR_AI
- - CYR_AI is also a RL-based bot that uses Proximal Policy Optimization (PPO) to train the AI.
- - It is trained with TensorFlow Keras and with multi-threading.
- - The policy of action choice is made by roulette.
+### **CYR_AI**
+- CYR_AI is also a RL-based bot that uses Proximal Policy Optimization (PPO) to train the AI.
+- It is trained with TensorFlow Keras and with multi-threading.
+- The policy of action choice is made by roulette.
 
 #### Content
   There are three folders in this directory: "ai", "aiData" and "src", each of which contains the files:
-  - ai/CYR_AI.jar: AI implementation in Java.
-  - aiData/CYR_AI/***.csv: They are the weights of each mode and character.
-  - src: the source code for .jar bot.
+- ai/CYR_AI.jar: AI implementation in Java.
+- aiData/CYR_AI/***.csv: They are the weights of each mode and character.
+    - src: the source code for .jar bot.
 
 #### Installation and RUN
    They are the same as above.
+
+
+
+## More Information
+please refer to [FTGAI-Competition](http://www.ice.ci.ritsumei.ac.jp/~ftgaic/index-R.html).
 
