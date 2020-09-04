@@ -59,7 +59,7 @@ Last Step, run the **FightingICE.bat** in fig.2. Then enjoy it!![img](images/4.p
 #### Content
   There are three folders in this directory: "ai", "aiData" and "src", each of which contains the files:
   - ai/EmcmAi.jar: AI implementation in Java.
-  - aiData/EmcmAi/b{0~2}_399.csv and /EmcmAi/W{0~2}_399.csv
+  - aiData/EmcmAi/b{0_2}_399.csv and /EmcmAi/W{0_2}_399.csv
   - src: the source code for .jar bot.
 
 #### Installation
