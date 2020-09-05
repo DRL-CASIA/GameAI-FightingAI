@@ -69,7 +69,7 @@ Last Step, run the **FightingICE.bat** in fig.2. Then enjoy it!![img](images/4.p
    Launch the FightingICE and select EmcmAi and the opponent. Then enjoy the game.
 
 
-### **CYR_AI**  (Main Contributor: YuRou Chen)
+### **CYR_AI**  (Main Contributor: Yurou Chen)
 - CYR_AI is also a RL-based bot that uses Proximal Policy Optimization (PPO) to train the AI.
 - It is trained with TensorFlow Keras and with multi-threading.
 - The policy of action choice is made by roulette.
