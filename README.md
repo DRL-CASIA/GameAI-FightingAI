@@ -87,5 +87,6 @@ Last Step, run the **FightingICE.bat** in fig.2. Then enjoy it!![img](images/4.p
 
 ## More Information
 Please refer to [FTGAI-Competition](http://www.ice.ci.ritsumei.ac.jp/~ftgaic/index-R.html).
-Peprint version paper RHEA-based Fighting Game AI: [RHEA_PI](https://arxiv.org/pdf/2003.13949.pdf)
+
+Peprint version paper: [Enhanced Rolling Horizon Evolution Algorithm with Opponent Model Learning: Results for the Fighting Game AI Competition](https://arxiv.org/pdf/2003.13949.pdf)
 
