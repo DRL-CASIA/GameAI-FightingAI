@@ -4,7 +4,7 @@
 
 Rolling Fighting Bots use a java-based neural network libraries which is called **DeepLearning4j**. There are some jars (from **DeepLearning4j**) should be put  into the platform. For easy to be replicated, here we provide the roadmap. Notice it is just tested on Win 10.
 
-
+Reinforcement learning based bots mainly use PPO as default trainer. In order to meet the real-time requirement and game rules, they have been transformed from Python-Training to Java-Execution.
 
 ## **Rolling Horizon Evolution Algorithm (RHEA) PART**  （Main Contributor: Zhentao Tang）
 
