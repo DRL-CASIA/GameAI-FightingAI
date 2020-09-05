@@ -90,3 +90,7 @@ Please refer to [FTGAI-Competition](http://www.ice.ci.ritsumei.ac.jp/~ftgaic/ind
 
 Peprint version paper: [Enhanced Rolling Horizon Evolution Algorithm with Opponent Model Learning: Results for the Fighting Game AI Competition](https://arxiv.org/pdf/2003.13949.pdf)
 
+Zhentao Tang, Yuanheng Zhu, Dongbin Zhao*, Simon Lucas, “Enhanced rolling horizon evolution algorithm with opponent model learning,” IEEE Transactions on Games, 2020. DOI: 10.1109/TG.2020.3022698.
+
+
+
