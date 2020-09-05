@@ -6,7 +6,7 @@ Rolling Fighting Bots use a java-based neural network libraries which is called 
 
 
 
-## **Rolling Horizon Evolution Algorithm (RHEA) PART** 
+## **Rolling Horizon Evolution Algorithm (RHEA) PART**  （Main Contributor: Zhentao Tang）
 
 ### Dependency Installation for Execution
 
@@ -49,7 +49,7 @@ Last Step, run the **FightingICE.bat** in fig.2. Then enjoy it!![img](images/4.p
 
 ## **Reinforcement Learning (RL) Part**
 
-### **EmcmAI**
+### **EmcmAI**  (Main Contributor: Yuanheng Zhu)
 
 - EmcmAI is a RL-based bot that uses a policy network to fight against opponents.
 - The policy network is trained by Proximal Policy Optimization (PPO) and by playing against participating bots in the competitions of last few years.
@@ -69,7 +69,7 @@ Last Step, run the **FightingICE.bat** in fig.2. Then enjoy it!![img](images/4.p
    Launch the FightingICE and select EmcmAi and the opponent. Then enjoy the game.
 
 
-### **CYR_AI**
+### **CYR_AI**  (Main Contributor: YuRou Chen)
 - CYR_AI is also a RL-based bot that uses Proximal Policy Optimization (PPO) to train the AI.
 - It is trained with TensorFlow Keras and with multi-threading.
 - The policy of action choice is made by roulette.
@@ -86,5 +86,6 @@ Last Step, run the **FightingICE.bat** in fig.2. Then enjoy it!![img](images/4.p
 
 
 ## More Information
-please refer to [FTGAI-Competition](http://www.ice.ci.ritsumei.ac.jp/~ftgaic/index-R.html).
+Please refer to [FTGAI-Competition](http://www.ice.ci.ritsumei.ac.jp/~ftgaic/index-R.html).
+Peprint version paper RHEA-based Fighting Game AI: [RHEA_PI](https://arxiv.org/pdf/2003.13949.pdf)
 
